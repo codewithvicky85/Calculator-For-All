@@ -1,0 +1,6 @@
+{
+  "name": "OmniEng Engineering Calculator Suite",
+  "description": "Comprehensive multi-discipline engineering calculator for mechanical, chemical, and civil engineering students and professors, featuring step-by-step derivations, diagrams, and lecture tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "/",
+  "name": "CalculatorForAll",
+  "short_name": "CalcForAll",
+  "description": "Comprehensive engineering calculator and multi-discipline formula solver for mechanical, chemical, civil engineering students, and professors.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#06b6d4",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["education", "utilities", "productivity"]
+}
